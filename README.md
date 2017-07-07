@@ -1,5 +1,4 @@
 # octopus-dopeness
-Im the coolest
 </head>
 <body>
 
